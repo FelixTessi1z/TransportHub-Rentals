@@ -79,18 +79,18 @@ const AboutPage = () => {
                     <h3 className="text-3xl font-bold mb-2">{founder.name}</h3>
                     <p className="text-xl text-primary font-semibold mb-6">{founder.title}</p>
                     <p className="text-gray-600 mb-4 leading-relaxed">
-                      With over 5 years of experience in the transportation and hospitality industries, John founded
+                      With over 5 years of experience in the transportation and hospitality industries, Felix founded
                       TransportHub to revolutionize how people rent vehicles. His vision is to create a seamless,
                       customer-centric platform that prioritizes reliability and excellence.
                     </p>
                     <p className="text-gray-600 mb-6 leading-relaxed">
-                      John's leadership has guided TransportHub to become a trusted name in vehicle rentals, serving
+                      Felix's leadership has guided TransportHub to become a trusted name in vehicle rentals, serving
                       thousands of satisfied customers across multiple regions. He remains deeply involved in shaping
                       our company culture and ensuring every interaction with our brand exceeds expectations.
                     </p>
                     <div className="flex gap-6">
                       <div>
-                        <p className="text-2xl font-bold text-primary">15+</p>
+                        <p className="text-2xl font-bold text-primary">5+</p>
                         <p className="text-sm text-gray-600">Years Experience</p>
                       </div>
                       <div>

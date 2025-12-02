@@ -81,7 +81,7 @@ export default function Contact() {
                         value={formData.name}
                         onChange={handleChange}
                         required
-                        placeholder="John Doe"
+                        placeholder="Tessi Jay"
                         className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary transition-all"
                       />
                     </div>
@@ -99,7 +99,7 @@ export default function Contact() {
                         value={formData.email}
                         onChange={handleChange}
                         required
-                        placeholder="john@example.com"
+                        placeholder="felix@example.com"
                         className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary transition-all"
                       />
                     </div>
@@ -116,7 +116,7 @@ export default function Contact() {
                         name="phone"
                         value={formData.phone}
                         onChange={handleChange}
-                        placeholder="+1 (555) 123-4567"
+                        placeholder="+233 (55) 280 0438"
                         className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary transition-all"
                       />
                     </div>
@@ -167,7 +167,7 @@ export default function Contact() {
                 <FadeUp delay={0.3}>
                   <div className="bg-light p-6 rounded-lg">
                     <h4 className="font-semibold mb-2">Email</h4>
-                    <p className="text-gray-600 mb-2">info@transporthub.com</p>
+                    <p className="text-gray-600 mb-2">info@tijaytransporthub.com</p>
                     <p className="text-sm text-gray-500">Response within 2 hours</p>
                   </div>
                 </FadeUp>
