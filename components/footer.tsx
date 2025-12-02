@@ -75,8 +75,8 @@ export default function Footer() {
           {/* Contact */}
           <div>
             <h4 className="font-semibold text-lg mb-4">Contact</h4>
-            <p className="text-gray-400 mb-2">Email: info@transporthub.com</p>
-            <p className="text-gray-400 mb-2">Phone: +1 (555) 123-4567</p>
+            <p className="text-gray-400 mb-2">Email: info@tijaytransporthub.com</p>
+            <p className="text-gray-400 mb-2">Phone: +233 (55) 280 0438</p>
             <p className="text-gray-400">Available 24/7 for your queries</p>
           </div>
         </div>
